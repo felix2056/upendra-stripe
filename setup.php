@@ -58,7 +58,7 @@ define('STRIPE_PUBLISHABLE_KEY', 'pk_test_51K9y0sDf1xi3aWRrHvBgTLCxubSoH6VYKLXSL
 
 //=============== CHANGE Me Carefully Start =======================//
 // define("BASE_URL", "https://yourwebsite.com/foldername/");
-define("BASE_URL", "http://upendra-stripe.animestock4amv.com");
+define("BASE_URL", "https://upendra-stripe.animeinterface.com");
 //=============== CHANGE Me Carefully End  =======================//
 
 //=============== CHANGE Me Carefully Start =======================//
